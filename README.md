@@ -1,2 +1,2 @@
 # myjava
-This is host java trianing materials
+This is host java trianing materials .
